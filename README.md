@@ -2,10 +2,11 @@
 
 ## 人物志
 
-a1: xxx - a10222
-fjfdksafla
+a1: 锅蜀黍 - a10222
+我是xxx名，18遂
 
 a2: xxx - a1-sxx
+
 
 ## xxx
 
